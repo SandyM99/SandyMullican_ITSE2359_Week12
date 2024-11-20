@@ -61,3 +61,4 @@ bool isValidPostfix(const std::string& expression) {
 
     return operandCount == 1 && operatorCount > 0;
 }
+
